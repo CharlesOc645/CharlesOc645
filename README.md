@@ -1,5 +1,5 @@
 - Hi, I’m Charles O'Connor
-- I’m currently completing my Bachelor of Business majoring in computer science and I am looking to undertake a graduate diploma and masters of mathematics (specialising in applied mathematics, discrete mathematics and operations research)
+- I’m currently completing my Bachelor of Business majoring in computer science and I am looking to undertake a Graduate Diploma and Masters of Mathematics (specialising in applied mathematics, discrete mathematics and operations research)
 - I'm very interested in mathematical research, high frequency trading, algorithms, optimization, combinatorics, graph theory, market microstructure, and game theory.
 - Feel free to reach out to me at www.linkedin.com/in/-charles-oconnor if you have any questions about my studies, work prospects, projects, or more.
 
