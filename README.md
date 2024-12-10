@@ -1,7 +1,7 @@
 - Hi, I’m Charles O'Connor
-- I’m currently completing my Bachelor of Arts majoring in Economics & Mathematics
+- I’m Currently Completing my Bachelor of Arts Majoring in Economics & Mathematics
 - My Main Interests Include: Utilising Methods from Deep Learning, Complex Systems Modelling, Applied Probability, & Game Theory for Low Latency Prediction. As well as Signal Processing, Information Theory,  Statistical Mechanics & Spatial Statistics, Stochastic Analysis, Network Dynamics, & Dynamical Systems for Multi Setting Signals Research
-- Feel free to reach out to me at www.linkedin.com/in/-charles-oconnor if you have any questions about my studies, work prospects, projects, or more.
+- Feel Free to Reach Out to me at www.linkedin.com/in/-charles-oconnor if You have Any Questions About my Studies, Work Prospects, Projects, or More.
 
 
 <!---
