@@ -1,6 +1,6 @@
 - Hi, I’m Charles O'Connor
 - I’m Currently Completing my Bachelor of Arts at Monash University Majoring in Economics & Mathematics
-- My Main Interests Include: Machine Learning Theory; Deep Learning + Decision Trees for Pattern Recognition within Extremely Large Datasets
+- My Main Interests Include: Advanced Computing, Statistics, Applied Probabilities, Game Theory, & Combinatorics. More Specifically Machine Learning Theory Including; Deep Learning & Decision Trees for Pattern Recognition Within Extremely Large Datasets.
 - Feel Free to Reach Out to me at www.linkedin.com/in/-charles-oconnor if You have Any Questions About my Studies, Work Prospects, Projects, or More.
 
 
