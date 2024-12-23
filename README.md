@@ -1,7 +1,10 @@
 - Hi, I’m Charles O'Connor
 - I’m Currently Completing my Bachelor of Arts at Monash University Majoring in Economics & Mathematics
-- My Main Interests Include: Advanced Computing, Statistics, Applied Probabilities, Game Theory, & Combinatorics. More Specifically Machine Learning Theory Including; Deep Learning & Decision Trees for Pattern Recognition Within Extremely Large Datasets.
-- Feel Free to Reach Out to me at www.linkedin.com/in/-charles-oconnor if You have Any Questions About my Studies, Work Prospects, Projects, or More.
+- My Main Interests Include: Computer Science, Economics, Mathematics, & Complex Systems. More Specifically in Deep Learning, Exchange Building, Microeconomics, Game Theory, & Chaos Theory.
+- My Links:
+- https://www.linkedin.com/in/-charles-oconnor/
+- https://www.kaggle.com/charlesoconnor
+  
 
 
 <!---
